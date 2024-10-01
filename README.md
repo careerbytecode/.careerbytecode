@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sukhpinder Singh, a passionate self-taught .Net developer from India. Worked on 10+ projects for SQL database design. Developed and maintained over 20 .NET websites with 100% client satisfaction.
+I'm Sukhpinder Singh, a passionate self-taught .Net developer 👨‍💻 who's 100% convinced my bugs are funnier than yours. 🐛💥 #BugLife
 
 **Skills**
 C# | Microsoft Certified | Medium Blogger | .Net Core | Xamarin | ASP.Net | Angular
